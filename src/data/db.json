@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@text.com"
+    },
+    {
+      "id": 2,
+      "name": "OM sweets",
+      "address": "delhi sector 50",
+      "email": "om@test.com"
+    },
+    {
+      "name": "mcdonals",
+      "address": "noida sector 20",
+      "email": "mcdonals@test.com",
+      "id": 3
+    }
+  ]
+}
